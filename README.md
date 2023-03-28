@@ -1,6 +1,6 @@
 # Creating-new-database-and-table
 
-Creating a database named Analysis in Mysql Workbence-
+Steps to create new database in Mysql Workbence-
 
 -Open MYSQL workbench
 -Right click in schemas
